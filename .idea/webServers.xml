@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="15a45044-cb51-4531-b3ab-2ac09f0f143d" name="@twenty9signals" url="http://twenty9signals.com">
+        <fileTransfer rootFolder="/www/dev.twenty9signals.com" accessType="SFTP" host="twenty9signals.com" port="18765" sshConfigId="baae5171-5ae6-40f9-8f6a-0588f9e7c017" sshConfig="u7-zy3sf5ye487j@dev.twenty9signals.com:18765" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

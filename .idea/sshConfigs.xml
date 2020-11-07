@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="twenty9signals.com" id="baae5171-5ae6-40f9-8f6a-0588f9e7c017" keyPath="C:\Users\twent\.ssh\twenty9signals.key" port="18765" customName="u7-zy3sf5ye487j@dev.twenty9signals.com:18765" nameFormat="CUSTOM" username="u7-zy3sf5ye487j">
+        <option name="customName" value="u7-zy3sf5ye487j@dev.twenty9signals.com:18765" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
